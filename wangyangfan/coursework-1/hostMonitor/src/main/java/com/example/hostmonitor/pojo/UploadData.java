@@ -4,9 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 
 /**
- * @Author: WangYF
- * @Date: 2024/05/28
- * @Description: 主机利用率采集接口输入
+ * 主机利用率采集接口输入
  */
 @Data
 @AllArgsConstructor
